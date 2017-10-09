@@ -1,0 +1,10 @@
+{
+  "name": "HackData",
+  "description": "A opencv Flask app on Heroku",
+  "keywords": [
+    "flask",
+    "python",
+    "opencv"
+  ],
+  "repository": "https://github.com/HackData/HackData"
+}
